@@ -9,9 +9,24 @@ GITHUBTARBALL
     brewcask (0.0.6)
 
 GITHUBTARBALL
+  remote: boxen/puppet-chrome
+  specs:
+    chrome (1.1.2)
+
+GITHUBTARBALL
+  remote: boxen/puppet-clojure
+  specs:
+    clojure (1.2.0)
+
+GITHUBTARBALL
   remote: boxen/puppet-dnsmasq
   specs:
     dnsmasq (2.0.1)
+
+GITHUBTARBALL
+  remote: boxen/puppet-dropbox
+  specs:
+    dropbox (1.2.0)
 
 GITHUBTARBALL
   remote: boxen/puppet-foreman
@@ -44,6 +59,11 @@ GITHUBTARBALL
     hub (1.4.1)
 
 GITHUBTARBALL
+  remote: boxen/puppet-java
+  specs:
+    java (1.5.0)
+
+GITHUBTARBALL
   remote: boxen/puppet-nginx
   specs:
     nginx (1.4.5)
@@ -67,6 +87,11 @@ GITHUBTARBALL
   remote: boxen/puppet-pkgconfig
   specs:
     pkgconfig (1.0.0)
+
+GITHUBTARBALL
+  remote: boxen/puppet-quicksilver
+  specs:
+    quicksilver (1.3.0)
 
 GITHUBTARBALL
   remote: boxen/puppet-repository
@@ -126,3 +151,8 @@ DEPENDENCIES
   sudo (= 1.0.0)
   xquartz (= 1.2.1)
 
+  chrome (= 1.1.2)
+  clojure (= 1.2.0)
+  dropbox (= 1.2.0)
+  java (= 1.5.0)
+  quicksilver (= 1.3.0)

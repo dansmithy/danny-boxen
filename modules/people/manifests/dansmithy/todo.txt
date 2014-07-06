@@ -1,0 +1,7 @@
+
+git config
+lighttable
+
+
+
+move iphotos
