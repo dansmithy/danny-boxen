@@ -9,5 +9,5 @@ class people::dansmithy {
   include people::dansmithy::emacslive
   include people::dansmithy::lighttable
   include people::dansmithy::moneywell
-
+  include people::dansmithy::gradle
 }
