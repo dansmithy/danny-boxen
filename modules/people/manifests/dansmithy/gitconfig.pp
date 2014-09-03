@@ -28,4 +28,8 @@ class people::dansmithy::gitconfig {
     value => "pull --rebase"
   }
 
+  git::config::global { 'alias.br':
+    value => "branch"
+  }
+
 }

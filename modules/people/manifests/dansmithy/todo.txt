@@ -2,6 +2,10 @@
 git config
 lighttable
 
-
+adium
+cisco anyconnect
+sonos
+spotify
+kindle
 
 move iphotos
